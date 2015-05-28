@@ -1,7 +1,7 @@
 {
   "name": "immutable-to-js-in",
   "main": "./src",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "toJSIn method for immutable.Iterable",
   "license": "MIT",
   "repository": "bendrucker/immutable-to-js-in",
