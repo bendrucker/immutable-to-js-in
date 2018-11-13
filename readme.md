@@ -1,4 +1,4 @@
-# immutable-to-js-in [![Build Status](https://travis-ci.org/bendrucker/immutable-to-js-in.svg?branch=master)](https://travis-ci.org/bendrucker/immutable-to-js-in)
+# immutable-to-js-in [![Build Status](https://travis-ci.org/bendrucker/immutable-to-js-in.svg?branch=master)](https://travis-ci.org/bendrucker/immutable-to-js-in) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/immutable-to-js-in.svg)](https://greenkeeper.io/)
 
 > `toJSIn` method for `immutable.Iterable`
 
